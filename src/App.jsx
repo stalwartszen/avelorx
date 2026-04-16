@@ -21,8 +21,8 @@ export default function App() {
         </span>
 
         {/* Wordmark */}
-        <h1 className="text-7xl sm:text-8xl font-thin tracking-[0.25em] uppercase text-white select-none">
-          Avelorx
+        <h1 className="text-7xl sm:text-8xl font-thin tracking-[0.25em] text-white select-none">
+          AVELORX
         </h1>
 
         {/* Tagline */}
