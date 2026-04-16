@@ -20,10 +20,12 @@ export default function App() {
           Coming Soon
         </span>
 
-        {/* Wordmark */}
-        <h1 className="text-7xl sm:text-8xl font-thin tracking-[0.25em] text-white select-none">
-          AVELORX
-        </h1>
+        {/* Logo */}
+        <img
+          src="/avelorx_logo.jpeg"
+          alt="Avelorx"
+          className="w-64 sm:w-80 select-none"
+        />
 
         {/* Tagline */}
         <p className="text-sm tracking-[0.2em] text-zinc-500 uppercase">
