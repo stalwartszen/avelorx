@@ -1,0 +1,38 @@
+# Avelorx
+
+> Real-time queue visibility and time optimization platform for offline services.
+
+Avelorx is a SaaS platform that enables users to discover nearby service providers — restaurants, salons, clinics, and diagnostic centers — view live wait times, and join queues remotely. It shifts consumer decision-making from proximity-based to time-based, reducing wasted waiting time and improving service access in high-density urban environments.
+
+## What It Does
+
+- Real-time wait time visibility across multiple service categories
+- Remote queue joining — hold your place without being physically present
+- Live queue position tracking with arrival notifications
+- Category-based discovery (food, healthcare, personal care, diagnostics)
+- Business-facing dashboard for queue management and customer flow control
+
+## Problem It Solves
+
+In urban environments, people visiting restaurants, salons, clinics, and similar services face unpredictable and unmanaged wait times. There is no unified system giving real-time visibility into service demand across locations. Avelorx fills this gap.
+
+## Target Users
+
+- Urban consumers who regularly use walk-in offline services
+- Businesses (restaurants, salons, clinics) that manage physical customer queues
+
+## Business Model
+
+Dual-sided platform: free for consumers, SaaS subscription for businesses.
+
+## Tagline
+
+Time, in motion.
+
+## Status
+
+Coming soon. Launching at avelorx.com.
+
+## Contact
+
+hello@avelorx.com
