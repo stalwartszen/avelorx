@@ -22,9 +22,9 @@ export default function App() {
 
         {/* Logo */}
         <img
-          src="/avelorx_logo.jpeg"
+          src="/avelorxlogo.png"
           alt="Avelorx"
-          className="w-64 sm:w-80 select-none"
+          className="w-64 sm:w-80 select-none invert"
         />
 
         {/* Tagline */}
