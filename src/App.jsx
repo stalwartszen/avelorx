@@ -21,11 +21,9 @@ export default function App() {
         </span>
 
         {/* Logo */}
-        <img
-          src="/avelorxlogo.png"
-          alt="Avelorx"
-          className="w-64 sm:w-80 select-none invert"
-        />
+        <h1 className="text-7xl sm:text-8xl font-thin tracking-[0.25em] uppercase text-white select-none">
+          Avelorx
+        </h1>
 
         {/* Tagline */}
         <p className="text-sm tracking-[0.2em] text-zinc-500 uppercase">
